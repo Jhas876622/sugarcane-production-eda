@@ -123,16 +123,6 @@ Open: `Sugarcane Production Project.ipynb`
 
 ---
 
-## 📈 Sample Visualizations
-
-You can add images like this:
-
-```
-![Production Trend](images/production_trend.png)
-```
-
----
-
 ## ✨ Results & Findings
 
 * Summarize your key insights here
