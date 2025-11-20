@@ -98,29 +98,22 @@ If included:
 
 ---
 
-## ▶️ How to Run This Project
+# How to Run This Project
 
-### **1. Clone the Repository**
+## 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/sugarcane-production-analysis.git
-cd sugarcane-production-analysis
-```
+git clone https://github.com/jhas876622/sugarcane-production-analysis.git  
+cd sugarcane-production-analysis  
 
-### **2. Install the Required Libraries**
+## 2. Install the Required Libraries
 
-```bash
-pip install -r requirements.txt
-```
+pip install -r requirements.txt  
 
-### **3. Launch the Notebook**
+## 3. Launch the Notebook
 
-```bash
-jupyter notebook
-```
+jupyter notebook  
 
-Open: `Sugarcane Production Project.ipynb`
-
+**Open:** Sugarcane Production Projects.ipynb  
 ---
 
 ## ✨ Results & Findings
